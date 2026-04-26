@@ -1,0 +1,21 @@
+# Binary
+/grok-tui
+/grok-tui.exe
+
+# Build output
+dist/
+bin/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config (contains secrets)
+config.json
